@@ -23,15 +23,6 @@ def check_url(url):
 
 
 def scrape_data(results_soup, province, dist_id, div_id):
-    # parsed_url = urlparse(url)
-    # query_params = parse_qs(parsed_url.query)
-    # electoral_district = query_params.get('dist_id', [None])[0]
-    # polling_division = query_params.get('div_id', [None])[0]
-
-    # res = requests.get(url)
-    # soup = BeautifulSoup(res.content, 'html.parser')
-    #
-    # results_container = soup.find('div', class_='division-results card widget-summery')
 
     results = []
 
