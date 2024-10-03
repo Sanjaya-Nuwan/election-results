@@ -1,9 +1,7 @@
 import os
-
 import requests
 from bs4 import BeautifulSoup
 import json
-from urllib.parse import urlparse, parse_qs
 from elctoral_district import lst
 
 base_url = "https://election.adaderana.lk/general-election-2020/division_result.php"
