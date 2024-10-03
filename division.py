@@ -50,6 +50,7 @@ def scrape_data(results_soup, province, dist_id, div_id):
             })
     else:
         print(f'{dist_id} scraping unsuccessfully')
+        print("allahu akakbar")
 
     time_stamp = None
     electoral_district_id = None
