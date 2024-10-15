@@ -1,0 +1,286 @@
+{
+    "time_stamp": null,
+    "polling_division": "Seruwila",
+    "electoral_district": "Trincomalee",
+    "electoral_district_id": null,
+    "province": "Eastern",
+    "valid_votes": 55606,
+    "valid_votes_pct": 75.37,
+    "rejected_votes": 3723,
+    "rejected_pct": 5.05,
+    "total_polled": 59329,
+    "polled_pct": 80.41,
+    "registered_electors": 73782,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 34035,
+            "percentage": 61.21,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 13117,
+            "percentage": 23.59,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ITAK",
+            "party_long": "Ilankai Tamil Arasu Kadchi",
+            "votes": 4723,
+            "percentage": 8.49,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 992,
+            "percentage": 1.78,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 581,
+            "percentage": 1.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D14",
+            "party_long": "Trincomalee - Independent Group 4",
+            "votes": 323,
+            "percentage": 0.58,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 316,
+            "percentage": 0.57,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "AITC",
+            "party_long": "Ahila Ilankai Thamil Congress",
+            "votes": 299,
+            "percentage": 0.54,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "EPDP",
+            "party_long": "Eelam People s Democratic Party",
+            "votes": 250,
+            "percentage": 0.45,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "AITM",
+            "party_long": "Akhila Ilankai Tamil Mahasabha",
+            "votes": 242,
+            "percentage": 0.44,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND14_D14",
+            "party_long": "Trincomalee - Independent Group 14",
+            "votes": 167,
+            "percentage": 0.3,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SDPT",
+            "party_long": "Social Democratic Party of Tamils",
+            "votes": 123,
+            "percentage": 0.22,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D14",
+            "party_long": "Trincomalee - Independent Group 1",
+            "votes": 97,
+            "percentage": 0.17,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 71,
+            "percentage": 0.13,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D14",
+            "party_long": "Trincomalee - Independent Group 2",
+            "votes": 47,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D14",
+            "party_long": "Trincomalee - Independent Group 11",
+            "votes": 41,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TMTK",
+            "party_long": "Thamil Makkal Thesiya Kuttani",
+            "votes": 39,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D14",
+            "party_long": "Trincomalee - Independent Group 10",
+            "votes": 31,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND13_D14",
+            "party_long": "Trincomalee - Independent Group 13",
+            "votes": 27,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D14",
+            "party_long": "Trincomalee - Independent Group 3",
+            "votes": 17,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D14",
+            "party_long": "Trincomalee - Independent Group 7",
+            "votes": 16,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 14,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D14",
+            "party_long": "Trincomalee - Independent Group 12",
+            "votes": 11,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D14",
+            "party_long": "Trincomalee - Independent Group 8",
+            "votes": 9,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D14",
+            "party_long": "Trincomalee - Independent Group 5",
+            "votes": 9,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D14",
+            "party_long": "Trincomalee - Independent Group 9",
+            "votes": 6,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D14",
+            "party_long": "Trincomalee - Independent Group 6",
+            "votes": 3,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

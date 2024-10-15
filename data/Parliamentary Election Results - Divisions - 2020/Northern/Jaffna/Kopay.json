@@ -1,0 +1,346 @@
+{
+    "time_stamp": null,
+    "polling_division": "Kopay",
+    "electoral_district": "Jaffna",
+    "electoral_district_id": null,
+    "province": "Northern",
+    "valid_votes": 35179,
+    "valid_votes_pct": 59.71,
+    "rejected_votes": 3770,
+    "rejected_pct": 6.4,
+    "total_polled": 38949,
+    "polled_pct": 66.11,
+    "registered_electors": 58917,
+    "results": [
+        {
+            "party_short": "ITAK",
+            "party_long": "Ilankai Tamil Arasu Kadchi",
+            "votes": 9365,
+            "percentage": 26.62,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLFP",
+            "party_long": "Sri Lanka Freedom Party",
+            "votes": 7188,
+            "percentage": 20.43,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "AITC",
+            "party_long": "Ahila Ilankai Thamil Congress",
+            "votes": 5672,
+            "percentage": 16.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "EPDP",
+            "party_long": "Eelam People's Democratic Party",
+            "votes": 4353,
+            "percentage": 12.37,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TMTK",
+            "party_long": "Thamil Makkal Thesiya Kuttani",
+            "votes": 3549,
+            "percentage": 10.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D10",
+            "party_long": "Jafna-Independent Group 2",
+            "votes": 1684,
+            "percentage": 4.79,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 1047,
+            "percentage": 2.98,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D10",
+            "party_long": "Jafna-Independent Group 9",
+            "votes": 361,
+            "percentage": 1.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 337,
+            "percentage": 0.96,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D10",
+            "party_long": "Jafna-Independent Group 8",
+            "votes": 306,
+            "percentage": 0.87,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NEWDF",
+            "party_long": "New Democratic Front",
+            "votes": 204,
+            "percentage": 0.58,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LSSP",
+            "party_long": "Lanka Sama Samaja Party",
+            "votes": 156,
+            "percentage": 0.44,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D10",
+            "party_long": "Jafna-Independent Group 5",
+            "votes": 123,
+            "percentage": 0.35,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND14_D10",
+            "party_long": "Jafna-Independent Group 14",
+            "votes": 109,
+            "percentage": 0.31,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "DLF",
+            "party_long": "Democratic Left Front",
+            "votes": 103,
+            "percentage": 0.29,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 94,
+            "percentage": 0.27,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "EDF",
+            "party_long": "Eelavar Democratic Front",
+            "votes": 89,
+            "percentage": 0.25,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 70,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TULF",
+            "party_long": "Tamil United Liberation Front",
+            "votes": 59,
+            "percentage": 0.17,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 57,
+            "percentage": 0.16,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D10",
+            "party_long": "Jafna-Independent Group 12",
+            "votes": 35,
+            "percentage": 0.1,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D10",
+            "party_long": "Jafna-Independent Group 1",
+            "votes": 35,
+            "percentage": 0.1,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D10",
+            "party_long": "Jafna-Independent Group 4",
+            "votes": 31,
+            "percentage": 0.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND13_D10",
+            "party_long": "Jafna-Independent Group 13",
+            "votes": 23,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D10",
+            "party_long": "Jafna-Independent Group 6",
+            "votes": 21,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D10",
+            "party_long": "Jafna-Independent Group 3",
+            "votes": 18,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "USP",
+            "party_long": "United Socialist Party",
+            "votes": 18,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D10",
+            "party_long": "Jafna-Independent Group 11",
+            "votes": 16,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D10",
+            "party_long": "Jafna-Independent Group 10",
+            "votes": 16,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D10",
+            "party_long": "Jafna-Independent Group 7",
+            "votes": 14,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 14,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SEP",
+            "party_long": "Socialist Equality Party",
+            "votes": 10,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 2,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

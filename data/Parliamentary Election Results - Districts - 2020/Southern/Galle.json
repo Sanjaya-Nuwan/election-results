@@ -1,0 +1,224 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Galle",
+    "electoral_district_id": null,
+    "province": "Southern",
+    "valid_votes": 610052,
+    "valid_votes_pct": 94.46,
+    "rejected_votes": 35751,
+    "rejected_pct": 5.54,
+    "total_polled": 645803,
+    "polled_pct": 74.43,
+    "registered_electors": 867709,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 430334,
+            "percentage": 70.54,
+            "seats": 7,
+            "candidates": []
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 115456,
+            "percentage": 18.93,
+            "seats": 2,
+            "candidates": []
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 29963,
+            "percentage": 4.91,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 18968,
+            "percentage": 3.11,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 6419,
+            "percentage": 1.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 1790,
+            "percentage": 0.29,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "NDF",
+            "party_long": "National Democratic Front",
+            "votes": 1322,
+            "percentage": 0.22,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND12_D07",
+            "party_long": "",
+            "votes": 771,
+            "percentage": 0.13,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 693,
+            "percentage": 0.11,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 586,
+            "percentage": 0.1,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND02_D07",
+            "party_long": "",
+            "votes": 503,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "National Peoples Party",
+            "votes": 499,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 488,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Janasetha Peramuna",
+            "votes": 363,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND13_D07",
+            "party_long": "",
+            "votes": 354,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND01_D07",
+            "party_long": "",
+            "votes": 297,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND11_D07",
+            "party_long": "",
+            "votes": 208,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 187,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND08_D07",
+            "party_long": "",
+            "votes": 161,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND05_D07",
+            "party_long": "",
+            "votes": 111,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND04_D07",
+            "party_long": "",
+            "votes": 111,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND06_D07",
+            "party_long": "",
+            "votes": 103,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND10_D07",
+            "party_long": "",
+            "votes": 95,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND07_D07",
+            "party_long": "",
+            "votes": 95,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND09_D07",
+            "party_long": "",
+            "votes": 92,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND03_D07",
+            "party_long": "",
+            "votes": 83,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        }
+    ]
+}

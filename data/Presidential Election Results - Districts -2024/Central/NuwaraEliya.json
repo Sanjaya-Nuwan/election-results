@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "NuwaraEliya",
+    "electoral_district_id": null,
+    "province": "Central",
+    "valid_votes": 473935,
+    "valid_votes_pct": 97.0,
+    "rejected_votes": 14643,
+    "rejected_pct": 3.0,
+    "total_polled": 488578,
+    "polled_pct": 80.72,
+    "registered_electors": 605292,
+    "results": [
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 201814,
+            "percentage": 42.58,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 138619,
+            "percentage": 29.25,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 105057,
+            "percentage": 22.17,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 8821,
+            "percentage": 1.86,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND4",
+            "party_long": "K.K. PIYADASA",
+            "votes": 3614,
+            "percentage": 0.76,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 17621,
+            "percentage": 3.72,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

@@ -1,0 +1,466 @@
+{
+    "time_stamp": null,
+    "polling_division": "Vavuniya",
+    "electoral_district": "Vanni",
+    "electoral_district_id": null,
+    "province": "Northern",
+    "valid_votes": 81242,
+    "valid_votes_pct": 70.85,
+    "rejected_votes": 6129,
+    "rejected_pct": 5.34,
+    "total_polled": 87371,
+    "polled_pct": 76.19,
+    "registered_electors": 114674,
+    "results": [
+        {
+            "party_short": "ITAK",
+            "party_long": "Ilankai Tamil Arasu Kadchi",
+            "votes": 22849,
+            "percentage": 28.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 18696,
+            "percentage": 23.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 11170,
+            "percentage": 13.75,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SDPT",
+            "party_long": "Social Democratic Party of Tamils",
+            "votes": 6758,
+            "percentage": 8.32,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "EPDP",
+            "party_long": "Eelam People's Democratic Party",
+            "votes": 4926,
+            "percentage": 6.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TMTK",
+            "party_long": "Thamil Makkal Thesiya Kuttani",
+            "votes": 4610,
+            "percentage": 5.67,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "AITC",
+            "party_long": "Ahila Ilankai Thamil Congress",
+            "votes": 3993,
+            "percentage": 4.91,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D11",
+            "party_long": "Vanni-Independent Group 3",
+            "votes": 1696,
+            "percentage": 2.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D11",
+            "party_long": "Vanni-Independent Group 5",
+            "votes": 858,
+            "percentage": 1.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "DLF",
+            "party_long": "Democratic Left Front",
+            "votes": 764,
+            "percentage": 0.94,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 526,
+            "percentage": 0.65,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D11",
+            "party_long": "Vanni-Independent Group 9",
+            "votes": 398,
+            "percentage": 0.49,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 396,
+            "percentage": 0.49,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND20_D11",
+            "party_long": "Vanni-Independent Group 20",
+            "votes": 364,
+            "percentage": 0.45,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND22_D11",
+            "party_long": "Vanni-Independent Group 22",
+            "votes": 273,
+            "percentage": 0.34,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TULF",
+            "party_long": "Tamil United Liberation Front",
+            "votes": 265,
+            "percentage": 0.33,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 230,
+            "percentage": 0.28,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D11",
+            "party_long": "Vanni-Independent Group 1",
+            "votes": 228,
+            "percentage": 0.28,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND15_D11",
+            "party_long": "Vanni-Independent Group 15",
+            "votes": 196,
+            "percentage": 0.24,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND24_D11",
+            "party_long": "Vanni-Independent Group 24",
+            "votes": 182,
+            "percentage": 0.22,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D11",
+            "party_long": "Vanni-Independent Group 7",
+            "votes": 181,
+            "percentage": 0.22,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND18_D11",
+            "party_long": "Vanni-Independent Group 18",
+            "votes": 161,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND28_D11",
+            "party_long": "Vanni-Independent Group 28",
+            "votes": 159,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND19_D11",
+            "party_long": "Vanni-Independent Group 19",
+            "votes": 151,
+            "percentage": 0.19,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D11",
+            "party_long": "Vanni-Independent Group 2",
+            "votes": 132,
+            "percentage": 0.16,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D11",
+            "party_long": "Vanni-Independent Group 10",
+            "votes": 120,
+            "percentage": 0.15,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D11",
+            "party_long": "Vanni-Independent Group 8",
+            "votes": 109,
+            "percentage": 0.13,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND14_D11",
+            "party_long": "Vanni-Independent Group 14",
+            "votes": 107,
+            "percentage": 0.13,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND25_D11",
+            "party_long": "Vanni-Independent Group 25",
+            "votes": 99,
+            "percentage": 0.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 90,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 62,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D11",
+            "party_long": "Vanni-Independent Group 11",
+            "votes": 59,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND27_D11",
+            "party_long": "Vanni-Independent Group 27",
+            "votes": 56,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND21_D11",
+            "party_long": "Vanni-Independent Group 21",
+            "votes": 55,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 51,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D11",
+            "party_long": "Vanni-Independent Group 4",
+            "votes": 45,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND26_D11",
+            "party_long": "Vanni-Independent Group 26",
+            "votes": 39,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND23_D11",
+            "party_long": "Vanni-Independent Group 23",
+            "votes": 34,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND16_D11",
+            "party_long": "Vanni-Independent Group 16",
+            "votes": 30,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 29,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 26,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND13_D11",
+            "party_long": "Vanni-Independent Group 13",
+            "votes": 21,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D11",
+            "party_long": "Vanni-Independent Group 12",
+            "votes": 20,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D11",
+            "party_long": "Vanni-Independent Group 6",
+            "votes": 18,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND17_D11",
+            "party_long": "Vanni-Independent Group 17",
+            "votes": 10,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

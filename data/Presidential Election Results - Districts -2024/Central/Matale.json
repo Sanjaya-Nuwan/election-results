@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Matale",
+    "electoral_district_id": null,
+    "province": "Central",
+    "valid_votes": 339734,
+    "valid_votes_pct": 97.72,
+    "rejected_votes": 7921,
+    "rejected_pct": 2.28,
+    "total_polled": 347655,
+    "polled_pct": 80.85,
+    "registered_electors": 429991,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 140544,
+            "percentage": 41.37,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 121803,
+            "percentage": 35.85,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 53829,
+            "percentage": 15.84,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 10327,
+            "percentage": 3.04,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 2835,
+            "percentage": 0.83,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 10396,
+            "percentage": 3.06,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

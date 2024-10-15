@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Batticaloa",
+    "electoral_district_id": null,
+    "province": "Eastern",
+    "valid_votes": 318648,
+    "valid_votes_pct": 97.29,
+    "rejected_votes": 8876,
+    "rejected_pct": 2.71,
+    "total_polled": 327524,
+    "polled_pct": 72.83,
+    "registered_electors": 449686,
+    "results": [
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 139110,
+            "percentage": 43.66,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 91132,
+            "percentage": 28.6,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 38832,
+            "percentage": 12.19,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND9",
+            "party_long": "ARIYANETHIRAN PAKKIYASELVAM",
+            "votes": 36905,
+            "percentage": 11.58,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND4",
+            "party_long": "K.K. PIYADASA",
+            "votes": 3057,
+            "percentage": 0.96,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 48804,
+            "percentage": 15.32,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

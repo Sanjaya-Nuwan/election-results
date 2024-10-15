@@ -1,0 +1,192 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Anuradhapura",
+    "electoral_district_id": null,
+    "province": "North Central",
+    "valid_votes": 506902,
+    "valid_votes_pct": 93.46,
+    "rejected_votes": 35469,
+    "rejected_pct": 6.54,
+    "total_polled": 542371,
+    "polled_pct": 78.19,
+    "registered_electors": 693634,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 344458,
+            "percentage": 67.95,
+            "seats": 7,
+            "candidates": []
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 119788,
+            "percentage": 23.63,
+            "seats": 2,
+            "candidates": []
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 24492,
+            "percentage": 4.83,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 8254,
+            "percentage": 1.63,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND09_D17",
+            "party_long": "",
+            "votes": 1432,
+            "percentage": 0.28,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 1401,
+            "percentage": 0.28,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JSWP",
+            "party_long": "Jathika Sangwardhena Peramuna",
+            "votes": 1204,
+            "percentage": 0.24,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND01_D17",
+            "party_long": "",
+            "votes": 1069,
+            "percentage": 0.21,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND05_D17",
+            "party_long": "",
+            "votes": 589,
+            "percentage": 0.12,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 480,
+            "percentage": 0.09,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND10_D17",
+            "party_long": "",
+            "votes": 451,
+            "percentage": 0.09,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 450,
+            "percentage": 0.09,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND04_D17",
+            "party_long": "",
+            "votes": 429,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "National Peoples Party",
+            "votes": 424,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 379,
+            "percentage": 0.07,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 311,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND07_D17",
+            "party_long": "",
+            "votes": 271,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Janasetha Peramuna",
+            "votes": 263,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND06_D17",
+            "party_long": "",
+            "votes": 240,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND03_D17",
+            "party_long": "",
+            "votes": 184,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND02_D17",
+            "party_long": "",
+            "votes": 168,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND08_D17",
+            "party_long": "",
+            "votes": 165,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        }
+    ]
+}

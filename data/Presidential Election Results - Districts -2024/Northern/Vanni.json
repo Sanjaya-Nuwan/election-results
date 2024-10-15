@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Vanni",
+    "electoral_district_id": null,
+    "province": "Northern",
+    "valid_votes": 217269,
+    "valid_votes_pct": 95.86,
+    "rejected_votes": 9381,
+    "rejected_pct": 4.14,
+    "total_polled": 226650,
+    "polled_pct": 74.05,
+    "registered_electors": 306081,
+    "results": [
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 95422,
+            "percentage": 43.92,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 52573,
+            "percentage": 24.2,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND9",
+            "party_long": "ARIYANETHIRAN PAKKIYASELVAM",
+            "votes": 36377,
+            "percentage": 16.74,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 21412,
+            "percentage": 9.86,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND4",
+            "party_long": "K.K. PIYADASA",
+            "votes": 3240,
+            "percentage": 1.49,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 46554,
+            "percentage": 21.43,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

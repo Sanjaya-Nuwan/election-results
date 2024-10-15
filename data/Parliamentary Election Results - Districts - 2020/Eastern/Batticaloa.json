@@ -1,0 +1,320 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Batticaloa",
+    "electoral_district_id": null,
+    "province": "Eastern",
+    "valid_votes": 298012,
+    "valid_votes_pct": 94.65,
+    "rejected_votes": 16838,
+    "rejected_pct": 5.35,
+    "total_polled": 314850,
+    "polled_pct": 76.83,
+    "registered_electors": 409808,
+    "results": [
+        {
+            "party_short": "ITAK",
+            "party_long": "Ilankai Tamil Arasu Kadchi",
+            "votes": 79460,
+            "percentage": 26.66,
+            "seats": 2,
+            "candidates": []
+        },
+        {
+            "party_short": "TMVP",
+            "party_long": "Thamil Makkal Viduthalai Pulikal",
+            "votes": 67692,
+            "percentage": 22.71,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "SLMC",
+            "party_long": "Sri Lanka Muslim Congress",
+            "votes": 34428,
+            "percentage": 11.55,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 33424,
+            "percentage": 11.22,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "UPA",
+            "party_long": "",
+            "votes": 31054,
+            "percentage": 10.42,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 28362,
+            "percentage": 9.52,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "TULF",
+            "party_long": "Tamil United Liberation Front",
+            "votes": 8113,
+            "percentage": 2.72,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "TMTK",
+            "party_long": "Thamil Makkal Thesiya Kuttani",
+            "votes": 4960,
+            "percentage": 1.66,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND10_D12",
+            "party_long": "",
+            "votes": 1303,
+            "percentage": 0.44,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "AITC",
+            "party_long": "Ahila Ilankai Thamil Congress",
+            "votes": 1203,
+            "percentage": 0.4,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND14_D12",
+            "party_long": "",
+            "votes": 1003,
+            "percentage": 0.34,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 833,
+            "percentage": 0.28,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND06_D12",
+            "party_long": "",
+            "votes": 804,
+            "percentage": 0.27,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND19_D12",
+            "party_long": "",
+            "votes": 785,
+            "percentage": 0.26,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND22_D12",
+            "party_long": "",
+            "votes": 672,
+            "percentage": 0.23,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND17_D12",
+            "party_long": "",
+            "votes": 620,
+            "percentage": 0.21,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 348,
+            "percentage": 0.12,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND09_D12",
+            "party_long": "",
+            "votes": 331,
+            "percentage": 0.11,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "EDF",
+            "party_long": "Ealavar Democratic Front",
+            "votes": 331,
+            "percentage": 0.11,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "NDF",
+            "party_long": "National Democratic Front",
+            "votes": 274,
+            "percentage": 0.09,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND18_D12",
+            "party_long": "",
+            "votes": 252,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 224,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND15_D12",
+            "party_long": "",
+            "votes": 214,
+            "percentage": 0.07,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND07_D12",
+            "party_long": "",
+            "votes": 164,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND20_D12",
+            "party_long": "",
+            "votes": 162,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "DUA",
+            "party_long": "",
+            "votes": 145,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 118,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND08_D12",
+            "party_long": "",
+            "votes": 110,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND16_D12",
+            "party_long": "",
+            "votes": 105,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND13_D12",
+            "party_long": "",
+            "votes": 95,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND04_D12",
+            "party_long": "",
+            "votes": 88,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND03_D12",
+            "party_long": "",
+            "votes": 76,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND02_D12",
+            "party_long": "",
+            "votes": 71,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND01_D12",
+            "party_long": "",
+            "votes": 67,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND12_D12",
+            "party_long": "",
+            "votes": 52,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND05_D12",
+            "party_long": "",
+            "votes": 24,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND21_D12",
+            "party_long": "",
+            "votes": 23,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND11_D12",
+            "party_long": "",
+            "votes": 22,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        }
+    ]
+}

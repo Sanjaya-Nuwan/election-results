@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Mahanuwara",
+    "electoral_district_id": null,
+    "province": "Central",
+    "valid_votes": 933516,
+    "valid_votes_pct": 97.48,
+    "rejected_votes": 24153,
+    "rejected_pct": 2.52,
+    "total_polled": 957669,
+    "polled_pct": 80.38,
+    "registered_electors": 1191399,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 394534,
+            "percentage": 42.26,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 323998,
+            "percentage": 34.71,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 162707,
+            "percentage": 17.43,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 19403,
+            "percentage": 2.08,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 9098,
+            "percentage": 0.97,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 23776,
+            "percentage": 2.55,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

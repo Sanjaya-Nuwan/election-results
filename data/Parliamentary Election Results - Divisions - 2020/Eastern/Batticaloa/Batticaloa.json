@@ -1,0 +1,396 @@
+{
+    "time_stamp": null,
+    "polling_division": "Batticaloa",
+    "electoral_district": "Batticaloa",
+    "electoral_district_id": null,
+    "province": "Eastern",
+    "valid_votes": 138026,
+    "valid_votes_pct": 74.42,
+    "rejected_votes": 6725,
+    "rejected_pct": 3.63,
+    "total_polled": 144751,
+    "polled_pct": 78.05,
+    "registered_electors": 185467,
+    "results": [
+        {
+            "party_short": "ITAK",
+            "party_long": "Ilankai Tamil Arasu Kadchi",
+            "votes": 30599,
+            "percentage": 22.17,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TMVP",
+            "party_long": "Thamil Makkal Viduthalai Pulikal",
+            "votes": 28240,
+            "percentage": 20.46,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UPA",
+            "party_long": "United Peace Alliance",
+            "votes": 27264,
+            "percentage": 19.75,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLMC",
+            "party_long": "Sri Lanka Muslim Congress",
+            "votes": 20791,
+            "percentage": 15.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 13726,
+            "percentage": 9.94,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 9223,
+            "percentage": 6.68,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TULF",
+            "party_long": "Tamil United Liberation Front",
+            "votes": 3049,
+            "percentage": 2.21,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TMTK",
+            "party_long": "Thamil Makkal Thesiya Kuttani",
+            "votes": 956,
+            "percentage": 0.69,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 481,
+            "percentage": 0.35,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "AITC",
+            "party_long": "Ahila Ilankai Thamil Congress",
+            "votes": 429,
+            "percentage": 0.31,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND14_D12",
+            "party_long": "Batticaloa - Independent Group 14",
+            "votes": 382,
+            "percentage": 0.28,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D12",
+            "party_long": "Batticaloa - Independent Group 6",
+            "votes": 307,
+            "percentage": 0.22,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND19_D12",
+            "party_long": "Batticaloa - Independent Group 19",
+            "votes": 282,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND22_D12",
+            "party_long": "Batticaloa - Independent Group 22",
+            "votes": 277,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D12",
+            "party_long": "Batticaloa - Independent Group 10",
+            "votes": 247,
+            "percentage": 0.18,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D12",
+            "party_long": "Batticaloa - Independent Group 9",
+            "votes": 246,
+            "percentage": 0.18,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND17_D12",
+            "party_long": "Batticaloa - Independent Group 17",
+            "votes": 220,
+            "percentage": 0.16,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 198,
+            "percentage": 0.14,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "EDF",
+            "party_long": "Eelavar Democratic Front",
+            "votes": 123,
+            "percentage": 0.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 106,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D12",
+            "party_long": "Batticaloa - Independent Group 7",
+            "votes": 102,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND15_D12",
+            "party_long": "Batticaloa - Independent Group 15",
+            "votes": 99,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "DUA",
+            "party_long": "Democratic Unity Alliance",
+            "votes": 96,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NDF",
+            "party_long": "National Democratic Front",
+            "votes": 89,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND18_D12",
+            "party_long": "Batticaloa - Independent Group 18",
+            "votes": 88,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND20_D12",
+            "party_long": "Batticaloa - Independent Group 20",
+            "votes": 63,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 51,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D12",
+            "party_long": "Batticaloa - Independent Group 8",
+            "votes": 46,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D12",
+            "party_long": "Batticaloa - Independent Group 2",
+            "votes": 45,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND16_D12",
+            "party_long": "Batticaloa - Independent Group 16",
+            "votes": 38,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D12",
+            "party_long": "Batticaloa - Independent Group 4",
+            "votes": 34,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D12",
+            "party_long": "Batticaloa - Independent Group 1",
+            "votes": 31,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D12",
+            "party_long": "Batticaloa - Independent Group 3",
+            "votes": 29,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND13_D12",
+            "party_long": "Batticaloa - Independent Group 13",
+            "votes": 24,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D12",
+            "party_long": "Batticaloa - Independent Group 12",
+            "votes": 21,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D12",
+            "party_long": "Batticaloa - Independent Group 11",
+            "votes": 11,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D12",
+            "party_long": "Batticaloa - Independent Group 5",
+            "votes": 8,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND21_D12",
+            "party_long": "Batticaloa - Independent Group 21",
+            "votes": 5,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

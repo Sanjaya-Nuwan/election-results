@@ -1,0 +1,232 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Trincomalee",
+    "electoral_district_id": null,
+    "province": "Eastern",
+    "valid_votes": 212992,
+    "valid_votes_pct": 93.78,
+    "rejected_votes": 14125,
+    "rejected_pct": 6.22,
+    "total_polled": 227117,
+    "polled_pct": 78.62,
+    "registered_electors": 288868,
+    "results": [
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 86394,
+            "percentage": 40.56,
+            "seats": 2,
+            "candidates": []
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 68681,
+            "percentage": 32.25,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "ITAK",
+            "party_long": "Ilankai Tamil Arasu Kadchi",
+            "votes": 39570,
+            "percentage": 18.58,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "EPDP",
+            "party_long": "Eelam People's Democratic Party",
+            "votes": 3775,
+            "percentage": 1.77,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "AITC",
+            "party_long": "Ahila Ilankai Thamil Congress",
+            "votes": 2745,
+            "percentage": 1.29,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 2226,
+            "percentage": 1.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 1765,
+            "percentage": 0.83,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "TMTK",
+            "party_long": "Thamil Makkal Thesiya Kuttani",
+            "votes": 1625,
+            "percentage": 0.76,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND04_D14",
+            "party_long": "",
+            "votes": 1462,
+            "percentage": 0.69,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SDPT",
+            "party_long": "",
+            "votes": 1400,
+            "percentage": 0.66,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "AITM",
+            "party_long": "Akhila Ilankai Tamil Mahasabha",
+            "votes": 652,
+            "percentage": 0.31,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND14_D14",
+            "party_long": "",
+            "votes": 612,
+            "percentage": 0.29,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 466,
+            "percentage": 0.22,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND02_D14",
+            "party_long": "",
+            "votes": 340,
+            "percentage": 0.16,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND01_D14",
+            "party_long": "",
+            "votes": 257,
+            "percentage": 0.12,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 194,
+            "percentage": 0.09,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND10_D14",
+            "party_long": "",
+            "votes": 181,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND11_D14",
+            "party_long": "",
+            "votes": 118,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND05_D14",
+            "party_long": "",
+            "votes": 100,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND08_D14",
+            "party_long": "",
+            "votes": 87,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND13_D14",
+            "party_long": "",
+            "votes": 72,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Janasetha Peramuna",
+            "votes": 67,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND03_D14",
+            "party_long": "",
+            "votes": 62,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND07_D14",
+            "party_long": "",
+            "votes": 60,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND12_D14",
+            "party_long": "",
+            "votes": 36,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND06_D14",
+            "party_long": "",
+            "votes": 30,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND09_D14",
+            "party_long": "",
+            "votes": 15,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Badulla",
+    "electoral_district_id": null,
+    "province": "Uva",
+    "valid_votes": 568924,
+    "valid_votes_pct": 97.34,
+    "rejected_votes": 15519,
+    "rejected_pct": 2.66,
+    "total_polled": 584443,
+    "polled_pct": 82.81,
+    "registered_electors": 705772,
+    "results": [
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 219674,
+            "percentage": 38.61,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 197283,
+            "percentage": 34.68,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 115138,
+            "percentage": 20.24,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 13869,
+            "percentage": 2.44,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND4",
+            "party_long": "K.K. PIYADASA",
+            "votes": 3377,
+            "percentage": 0.59,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 19918,
+            "percentage": 3.5,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Jaffna",
+    "electoral_district_id": null,
+    "province": "Northern",
+    "valid_votes": 371688,
+    "valid_votes_pct": 93.61,
+    "rejected_votes": 25353,
+    "rejected_pct": 6.39,
+    "total_polled": 397041,
+    "polled_pct": 66.93,
+    "registered_electors": 593187,
+    "results": [
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 121177,
+            "percentage": 32.6,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND9",
+            "party_long": "ARIYANETHIRAN PAKKIYASELVAM",
+            "votes": 116688,
+            "percentage": 31.39,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 84558,
+            "percentage": 22.75,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 27086,
+            "percentage": 7.29,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND4",
+            "party_long": "K.K. PIYADASA",
+            "votes": 6074,
+            "percentage": 1.63,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 137572,
+            "percentage": 37.01,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

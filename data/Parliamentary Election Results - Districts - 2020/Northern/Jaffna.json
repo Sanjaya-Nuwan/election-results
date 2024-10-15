@@ -1,0 +1,280 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Jaffna",
+    "electoral_district_id": null,
+    "province": "Northern",
+    "valid_votes": 359130,
+    "valid_votes_pct": 91.12,
+    "rejected_votes": 35006,
+    "rejected_pct": 8.88,
+    "total_polled": 394136,
+    "polled_pct": 68.92,
+    "registered_electors": 571848,
+    "results": [
+        {
+            "party_short": "ITAK",
+            "party_long": "Ilankai Tamil Arasu Kadchi",
+            "votes": 112967,
+            "percentage": 31.46,
+            "seats": 3,
+            "candidates": []
+        },
+        {
+            "party_short": "AITC",
+            "party_long": "Ahila Ilankai Thamil Congress",
+            "votes": 55303,
+            "percentage": 15.4,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "SLFP",
+            "party_long": "Sri Lanka Freedom Party",
+            "votes": 49373,
+            "percentage": 13.75,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "EPDP",
+            "party_long": "Eelam People's Democratic Party",
+            "votes": 45797,
+            "percentage": 12.75,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "TMTK",
+            "party_long": "Thamil Makkal Thesiya Kuttani",
+            "votes": 35927,
+            "percentage": 10.0,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "IND05_D10",
+            "party_long": "",
+            "votes": 16220,
+            "percentage": 4.52,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 13564,
+            "percentage": 3.78,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 6522,
+            "percentage": 1.82,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND02_D10",
+            "party_long": "",
+            "votes": 5492,
+            "percentage": 1.53,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND09_D10",
+            "party_long": "",
+            "votes": 3311,
+            "percentage": 0.92,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND08_D10",
+            "party_long": "",
+            "votes": 2128,
+            "percentage": 0.59,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "DLF",
+            "party_long": "",
+            "votes": 1656,
+            "percentage": 0.46,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "NEWDF",
+            "party_long": "New Democratic Front",
+            "votes": 1369,
+            "percentage": 0.38,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "TULF",
+            "party_long": "Tamil United Liberation Front",
+            "votes": 1318,
+            "percentage": 0.37,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND14_D10",
+            "party_long": "",
+            "votes": 1100,
+            "percentage": 0.31,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 853,
+            "percentage": 0.24,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND04_D10",
+            "party_long": "",
+            "votes": 802,
+            "percentage": 0.22,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Janasetha Peramuna",
+            "votes": 799,
+            "percentage": 0.22,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "LSSP",
+            "party_long": "",
+            "votes": 737,
+            "percentage": 0.21,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "EDF",
+            "party_long": "Ealavar Democratic Front",
+            "votes": 704,
+            "percentage": 0.2,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND07_D10",
+            "party_long": "",
+            "votes": 625,
+            "percentage": 0.17,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 594,
+            "percentage": 0.17,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND03_D10",
+            "party_long": "",
+            "votes": 382,
+            "percentage": 0.11,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND12_D10",
+            "party_long": "",
+            "votes": 223,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND01_D10",
+            "party_long": "",
+            "votes": 216,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND06_D10",
+            "party_long": "",
+            "votes": 215,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 175,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "USP",
+            "party_long": "",
+            "votes": 170,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND13_D10",
+            "party_long": "",
+            "votes": 152,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SEP",
+            "party_long": "Socialist Equality Party",
+            "votes": 146,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND10_D10",
+            "party_long": "",
+            "votes": 146,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND11_D10",
+            "party_long": "",
+            "votes": 108,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 36,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        }
+    ]
+}
