@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Hambantota",
+    "electoral_district_id": null,
+    "province": "Southern",
+    "valid_votes": 427062,
+    "valid_votes_pct": 98.51,
+    "rejected_votes": 6443,
+    "rejected_pct": 1.49,
+    "total_polled": 433505,
+    "polled_pct": 83.22,
+    "registered_electors": 520940,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 221913,
+            "percentage": 51.96,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 131503,
+            "percentage": 30.79,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 33217,
+            "percentage": 7.78,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 26707,
+            "percentage": 6.25,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 2978,
+            "percentage": 0.7,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 10744,
+            "percentage": 2.52,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Digamadulla",
+    "electoral_district_id": null,
+    "province": "Eastern",
+    "valid_votes": 423397,
+    "valid_votes_pct": 98.47,
+    "rejected_votes": 6563,
+    "rejected_pct": 1.53,
+    "total_polled": 429960,
+    "polled_pct": 77.41,
+    "registered_electors": 555432,
+    "results": [
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 200384,
+            "percentage": 47.33,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 108971,
+            "percentage": 25.74,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 86589,
+            "percentage": 20.45,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND9",
+            "party_long": "ARIYANETHIRAN PAKKIYASELVAM",
+            "votes": 9985,
+            "percentage": 2.36,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 7570,
+            "percentage": 1.79,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 19083,
+            "percentage": 4.51,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

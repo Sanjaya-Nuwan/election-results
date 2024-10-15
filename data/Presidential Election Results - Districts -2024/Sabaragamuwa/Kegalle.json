@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Kegalle",
+    "electoral_district_id": null,
+    "province": "Sabaragamuwa",
+    "valid_votes": 569679,
+    "valid_votes_pct": 97.96,
+    "rejected_votes": 11878,
+    "rejected_pct": 2.04,
+    "total_polled": 581557,
+    "polled_pct": 81.95,
+    "registered_electors": 709622,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 247179,
+            "percentage": 43.39,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 185930,
+            "percentage": 32.64,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 106510,
+            "percentage": 18.7,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 11722,
+            "percentage": 2.06,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 4619,
+            "percentage": 0.81,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 13719,
+            "percentage": 2.41,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "time_stamp": null,
+    "polling_division": "Bandarawela",
+    "electoral_district": "Badulla",
+    "electoral_district_id": null,
+    "province": "Uva",
+    "valid_votes": 62413,
+    "valid_votes_pct": 74.0,
+    "rejected_votes": 4582,
+    "rejected_pct": 5.43,
+    "total_polled": 66995,
+    "polled_pct": 79.43,
+    "registered_electors": 84346,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 38673,
+            "percentage": 61.96,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 17795,
+            "percentage": 28.51,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 2863,
+            "percentage": 4.59,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 1182,
+            "percentage": 1.89,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D19",
+            "party_long": "Badulla - Independent Group 2",
+            "votes": 602,
+            "percentage": 0.96,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 474,
+            "percentage": 0.76,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D19",
+            "party_long": "Badulla - Independent Group 3",
+            "votes": 192,
+            "percentage": 0.31,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 78,
+            "percentage": 0.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 73,
+            "percentage": 0.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D19",
+            "party_long": "Badulla - Independent Group 9",
+            "votes": 67,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 52,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLLP",
+            "party_long": "Sri Lanka Labour Party",
+            "votes": 49,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D19",
+            "party_long": "Badulla - Independent Group 12",
+            "votes": 45,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 41,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D19",
+            "party_long": "Badulla - Independent Group 5",
+            "votes": 30,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D19",
+            "party_long": "Badulla - Independent Group 1",
+            "votes": 28,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "DUNF",
+            "party_long": "Democratic United National Front",
+            "votes": 28,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D19",
+            "party_long": "Badulla - Independent Group 11",
+            "votes": 27,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D19",
+            "party_long": "Badulla - Independent Group 10",
+            "votes": 24,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D19",
+            "party_long": "Badulla - Independent Group 8",
+            "votes": 23,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D19",
+            "party_long": "Badulla - Independent Group 4",
+            "votes": 20,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 19,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D19",
+            "party_long": "Badulla - Independent Group 7",
+            "votes": 15,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D19",
+            "party_long": "Badulla - Independent Group 6",
+            "votes": 13,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

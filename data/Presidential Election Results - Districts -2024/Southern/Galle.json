@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Galle",
+    "electoral_district_id": null,
+    "province": "Southern",
+    "valid_votes": 712820,
+    "valid_votes_pct": 98.27,
+    "rejected_votes": 12541,
+    "rejected_pct": 1.73,
+    "total_polled": 725361,
+    "polled_pct": 80.31,
+    "registered_electors": 903163,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 366721,
+            "percentage": 51.45,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 189555,
+            "percentage": 26.59,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 107336,
+            "percentage": 15.06,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 24382,
+            "percentage": 3.42,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 8263,
+            "percentage": 1.16,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 16563,
+            "percentage": 2.32,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

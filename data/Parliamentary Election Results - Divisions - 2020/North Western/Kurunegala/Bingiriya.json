@@ -1,0 +1,236 @@
+{
+    "time_stamp": null,
+    "polling_division": "Bingiriya",
+    "electoral_district": "Kurunegala",
+    "electoral_district_id": null,
+    "province": "North Western",
+    "valid_votes": 62746,
+    "valid_votes_pct": 69.04,
+    "rejected_votes": 2796,
+    "rejected_pct": 3.08,
+    "total_polled": 65542,
+    "polled_pct": 72.11,
+    "registered_electors": 90890,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 40839,
+            "percentage": 65.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 18456,
+            "percentage": 29.41,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 1288,
+            "percentage": 2.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 1278,
+            "percentage": 2.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D15",
+            "party_long": "Kurunegala - Independent Group 10",
+            "votes": 191,
+            "percentage": 0.3,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSWP",
+            "party_long": "Jathika Sangwardhena Peramuna",
+            "votes": 137,
+            "percentage": 0.22,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D15",
+            "party_long": "Kurunegala - Independent Group 2",
+            "votes": 125,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 71,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 59,
+            "percentage": 0.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 54,
+            "percentage": 0.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D15",
+            "party_long": "Kurunegala - Independent Group 3",
+            "votes": 33,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NDF",
+            "party_long": "National Democratic Front",
+            "votes": 33,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLLP",
+            "party_long": "Sri Lanka Labour Party",
+            "votes": 33,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 30,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D15",
+            "party_long": "Kurunegala - Independent Group 7",
+            "votes": 27,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D15",
+            "party_long": "Kurunegala - Independent Group 9",
+            "votes": 24,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 19,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D15",
+            "party_long": "Kurunegala - Independent Group 5",
+            "votes": 18,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D15",
+            "party_long": "Kurunegala - Independent Group 1",
+            "votes": 15,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D15",
+            "party_long": "Kurunegala - Independent Group 4",
+            "votes": 6,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D15",
+            "party_long": "Kurunegala - Independent Group 8",
+            "votes": 5,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D15",
+            "party_long": "Kurunegala - Independent Group 6",
+            "votes": 5,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

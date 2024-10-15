@@ -1,0 +1,206 @@
+{
+    "time_stamp": null,
+    "polling_division": "Deraniyagala",
+    "electoral_district": "Kegalle",
+    "electoral_district_id": null,
+    "province": "Sabaragamuwa",
+    "valid_votes": 49637,
+    "valid_votes_pct": 72.27,
+    "rejected_votes": 3352,
+    "rejected_pct": 4.88,
+    "total_polled": 52989,
+    "polled_pct": 77.16,
+    "registered_electors": 68678,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 32458,
+            "percentage": 65.39,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 14291,
+            "percentage": 28.79,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 1014,
+            "percentage": 2.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 948,
+            "percentage": 1.91,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 240,
+            "percentage": 0.48,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 139,
+            "percentage": 0.28,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D22",
+            "party_long": "Kegalle - Independent Group 7",
+            "votes": 94,
+            "percentage": 0.19,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 78,
+            "percentage": 0.16,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 63,
+            "percentage": 0.13,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D22",
+            "party_long": "Kegalle - Independent Group 1",
+            "votes": 44,
+            "percentage": 0.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLLP",
+            "party_long": "Sri Lanka Labour Party",
+            "votes": 41,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D22",
+            "party_long": "Kegalle - Independent Group 3",
+            "votes": 39,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 38,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D22",
+            "party_long": "Kegalle - Independent Group 5",
+            "votes": 36,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 30,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "DUNF",
+            "party_long": "Democratic United National Front",
+            "votes": 24,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D22",
+            "party_long": "Kegalle - Independent Group 4",
+            "votes": 21,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D22",
+            "party_long": "Kegalle - Independent Group 6",
+            "votes": 20,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D22",
+            "party_long": "Kegalle - Independent Group 2",
+            "votes": 19,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "time_stamp": null,
+    "polling_division": "Bulathsinhala",
+    "electoral_district": "Kalutara",
+    "electoral_district_id": null,
+    "province": "Western",
+    "valid_votes": 59524,
+    "valid_votes_pct": 71.54,
+    "rejected_votes": 4976,
+    "rejected_pct": 5.98,
+    "total_polled": 64500,
+    "polled_pct": 77.52,
+    "registered_electors": 83201,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 39321,
+            "percentage": 66.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 15077,
+            "percentage": 25.33,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 1838,
+            "percentage": 3.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 1520,
+            "percentage": 2.55,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLFP",
+            "party_long": "Sri Lanka Freedom Party",
+            "votes": 524,
+            "percentage": 0.88,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D03",
+            "party_long": "Kaluthara-Independent Group 5",
+            "votes": 212,
+            "percentage": 0.36,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D03",
+            "party_long": "Kaluthara-Independent Group 1",
+            "votes": 195,
+            "percentage": 0.33,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 119,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSWP",
+            "party_long": "Jathika Sangwardhena Peramuna",
+            "votes": 115,
+            "percentage": 0.19,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D03",
+            "party_long": "Kaluthara-Independent Group 12",
+            "votes": 108,
+            "percentage": 0.18,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "USP",
+            "party_long": "United Socialist Party",
+            "votes": 87,
+            "percentage": 0.15,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "DUNF",
+            "party_long": "Democratic United National Front",
+            "votes": 77,
+            "percentage": 0.13,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D03",
+            "party_long": "Kaluthara-Independent Group 2",
+            "votes": 68,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 52,
+            "percentage": 0.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND13_D03",
+            "party_long": "Kaluthara-Independent Group 13",
+            "votes": 36,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D03",
+            "party_long": "Kaluthara-Independent Group 4",
+            "votes": 36,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 34,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D03",
+            "party_long": "Kaluthara-Independent Group 7",
+            "votes": 21,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D03",
+            "party_long": "Kaluthara-Independent Group 9",
+            "votes": 18,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D03",
+            "party_long": "Kaluthara-Independent Group 8",
+            "votes": 16,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D03",
+            "party_long": "Kaluthara-Independent Group 10",
+            "votes": 15,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D03",
+            "party_long": "Kaluthara-Independent Group 3",
+            "votes": 13,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D03",
+            "party_long": "Kaluthara-Independent Group 11",
+            "votes": 12,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D03",
+            "party_long": "Kaluthara-Independent Group 6",
+            "votes": 10,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

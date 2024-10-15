@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Kalutara",
+    "electoral_district_id": null,
+    "province": "Western",
+    "valid_votes": 817518,
+    "valid_votes_pct": 98.05,
+    "rejected_votes": 16243,
+    "rejected_pct": 1.95,
+    "total_polled": 833761,
+    "polled_pct": 81.4,
+    "registered_electors": 1024244,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 387764,
+            "percentage": 47.43,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 236307,
+            "percentage": 28.91,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 143285,
+            "percentage": 17.53,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 22727,
+            "percentage": 2.78,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 10261,
+            "percentage": 1.26,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 17174,
+            "percentage": 2.1,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Ratnapura",
+    "electoral_district_id": null,
+    "province": "Sabaragamuwa",
+    "valid_votes": 741900,
+    "valid_votes_pct": 98.01,
+    "rejected_votes": 15070,
+    "rejected_pct": 1.99,
+    "total_polled": 756970,
+    "polled_pct": 81.95,
+    "registered_electors": 923736,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 291708,
+            "percentage": 39.32,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 257721,
+            "percentage": 34.74,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 145038,
+            "percentage": 19.55,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 20575,
+            "percentage": 2.77,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 7629,
+            "percentage": 1.03,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 19229,
+            "percentage": 2.59,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

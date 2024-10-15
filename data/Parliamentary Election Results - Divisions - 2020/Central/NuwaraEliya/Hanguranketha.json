@@ -1,0 +1,266 @@
+{
+    "time_stamp": null,
+    "polling_division": "Hanguranketha",
+    "electoral_district": "NuwaraEliya",
+    "electoral_district_id": null,
+    "province": "Central",
+    "valid_votes": 51111,
+    "valid_votes_pct": 73.0,
+    "rejected_votes": 4830,
+    "rejected_pct": 6.9,
+    "total_polled": 55941,
+    "polled_pct": 79.9,
+    "registered_electors": 70011,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 29869,
+            "percentage": 58.44,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 12949,
+            "percentage": 25.34,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 2394,
+            "percentage": 4.68,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLFP",
+            "party_long": "Sri Lanka Freedom Party",
+            "votes": 1813,
+            "percentage": 3.55,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D06",
+            "party_long": "Nuwaraeliya-Independent Group 10",
+            "votes": 1745,
+            "percentage": 3.41,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 964,
+            "percentage": 1.89,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NEWDF",
+            "party_long": "New Democratic Front",
+            "votes": 219,
+            "percentage": 0.43,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D06",
+            "party_long": "Nuwaraeliya-Independent Group 4",
+            "votes": 184,
+            "percentage": 0.36,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 162,
+            "percentage": 0.32,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D06",
+            "party_long": "Nuwaraeliya-Independent Group 1",
+            "votes": 121,
+            "percentage": 0.24,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D06",
+            "party_long": "Nuwaraeliya-Independent Group 6",
+            "votes": 115,
+            "percentage": 0.23,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 97,
+            "percentage": 0.19,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D06",
+            "party_long": "Nuwaraeliya-Independent Group 12",
+            "votes": 91,
+            "percentage": 0.18,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 63,
+            "percentage": 0.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 56,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D06",
+            "party_long": "Nuwaraeliya-Independent Group 3",
+            "votes": 52,
+            "percentage": 0.1,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D06",
+            "party_long": "Nuwaraeliya-Independent Group 7",
+            "votes": 44,
+            "percentage": 0.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND13_D06",
+            "party_long": "Nuwaraeliya-Independent Group 13",
+            "votes": 39,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D06",
+            "party_long": "Nuwaraeliya-Independent Group 8",
+            "votes": 36,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D06",
+            "party_long": "Nuwaraeliya-Independent Group 11",
+            "votes": 23,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SEP",
+            "party_long": "Socialist Equality Party",
+            "votes": 23,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D06",
+            "party_long": "Nuwaraeliya-Independent Group 9",
+            "votes": 16,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D06",
+            "party_long": "Nuwaraeliya-Independent Group 2",
+            "votes": 15,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLLP",
+            "party_long": "Sri Lanka Labour Party",
+            "votes": 11,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D06",
+            "party_long": "Nuwaraeliya-Independent Group 5",
+            "votes": 10,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

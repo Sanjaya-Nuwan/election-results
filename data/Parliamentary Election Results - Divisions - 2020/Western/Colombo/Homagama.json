@@ -1,0 +1,436 @@
+{
+    "time_stamp": null,
+    "polling_division": "Homagama",
+    "electoral_district": "Colombo",
+    "electoral_district_id": null,
+    "province": "Western",
+    "valid_votes": 131726,
+    "valid_votes_pct": 68.74,
+    "rejected_votes": 8032,
+    "rejected_pct": 4.19,
+    "total_polled": 139758,
+    "polled_pct": 72.93,
+    "registered_electors": 191627,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 95118,
+            "percentage": 72.21,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 23184,
+            "percentage": 17.6,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 8712,
+            "percentage": 6.61,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 2476,
+            "percentage": 1.88,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSWP",
+            "party_long": "Jathika Sangwardhena Peramuna",
+            "votes": 334,
+            "percentage": 0.25,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND17_D01",
+            "party_long": "Colombo-Independent group 17",
+            "votes": 232,
+            "percentage": 0.18,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D01",
+            "party_long": "Colombo-Independent group 7",
+            "votes": 158,
+            "percentage": 0.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 143,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND19_D01",
+            "party_long": "Colombo-Independent group 19",
+            "votes": 106,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D01",
+            "party_long": "Colombo-Independent group 2",
+            "votes": 105,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 96,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND15_D01",
+            "party_long": "Colombo-Independent group 15",
+            "votes": 82,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 81,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 77,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D01",
+            "party_long": "Colombo-Independent group 10",
+            "votes": 66,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "National Peoples Party",
+            "votes": 62,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 61,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND24_D01",
+            "party_long": "Colombo-Independent group 24",
+            "votes": 52,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D01",
+            "party_long": "Colombo-Independent group 8",
+            "votes": 50,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D01",
+            "party_long": "Colombo-Independent group 11",
+            "votes": 35,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND13_D01",
+            "party_long": "Colombo-Independent group 13",
+            "votes": 34,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D01",
+            "party_long": "Colombo-Independent group 3",
+            "votes": 32,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D01",
+            "party_long": "Colombo-Independent group 5",
+            "votes": 29,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D01",
+            "party_long": "Colombo-Independent group 9",
+            "votes": 29,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D01",
+            "party_long": "Colombo-Independent group 6",
+            "votes": 29,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND22_D01",
+            "party_long": "Colombo-Independent group 22",
+            "votes": 28,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND21_D01",
+            "party_long": "Colombo-Independent group 21",
+            "votes": 26,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 26,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "USP",
+            "party_long": "United Socialist Party",
+            "votes": 25,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND26_D01",
+            "party_long": "Colombo-Independent group 26",
+            "votes": 25,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D01",
+            "party_long": "Colombo-Independent group 4",
+            "votes": 24,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SEP",
+            "party_long": "Socialist Equality Party",
+            "votes": 23,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NSU",
+            "party_long": "Nawa Sihala Urumaya",
+            "votes": 22,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND16_D01",
+            "party_long": "Colombo-Independent group 16",
+            "votes": 22,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D01",
+            "party_long": "Colombo-Independent group 12",
+            "votes": 22,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND18_D01",
+            "party_long": "Colombo-Independent group 18",
+            "votes": 19,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D01",
+            "party_long": "Colombo-Independent group 1",
+            "votes": 19,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND25_D01",
+            "party_long": "Colombo-Independent group 25",
+            "votes": 16,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND20_D01",
+            "party_long": "Colombo-Independent group 20",
+            "votes": 16,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "DUNF",
+            "party_long": "Democratic United National Front",
+            "votes": 13,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND14_D01",
+            "party_long": "Colombo-Independent group 14",
+            "votes": 12,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND23_D01",
+            "party_long": "Colombo-Independent group 23",
+            "votes": 5,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

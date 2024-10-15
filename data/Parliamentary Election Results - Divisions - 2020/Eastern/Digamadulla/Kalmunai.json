@@ -1,0 +1,556 @@
+{
+    "time_stamp": null,
+    "polling_division": "Kalmunai",
+    "electoral_district": "Digamadulla",
+    "electoral_district_id": null,
+    "province": "Eastern",
+    "valid_votes": 54228,
+    "valid_votes_pct": 72.28,
+    "rejected_votes": 1863,
+    "rejected_pct": 2.48,
+    "total_polled": 56091,
+    "polled_pct": 74.77,
+    "registered_electors": 75020,
+    "results": [
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 20011,
+            "percentage": 36.9,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NC",
+            "party_long": "National Congress",
+            "votes": 10401,
+            "percentage": 19.18,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "AITM",
+            "party_long": "Akhila Ilankai Tamil Mahasabha",
+            "votes": 10130,
+            "percentage": 18.68,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ACMC",
+            "party_long": "All Ceylon Makkal Congress",
+            "votes": 6380,
+            "percentage": 11.77,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ITAK",
+            "party_long": "Ilankai Tamil Arasu Kadchi",
+            "votes": 3110,
+            "percentage": 5.74,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 2721,
+            "percentage": 5.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 231,
+            "percentage": 0.43,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "AITC",
+            "party_long": "Ahila Ilankai Thamil Congress",
+            "votes": 163,
+            "percentage": 0.3,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D13",
+            "party_long": "Digamadulla - Independent Group 9",
+            "votes": 124,
+            "percentage": 0.23,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D13",
+            "party_long": "Digamadulla - Independent Group 4",
+            "votes": 114,
+            "percentage": 0.21,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "MJP",
+            "party_long": "Maubima Janatha Pakshaya",
+            "votes": 87,
+            "percentage": 0.16,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D13",
+            "party_long": "Digamadulla - Independent Group 6",
+            "votes": 64,
+            "percentage": 0.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND18_D13",
+            "party_long": "Digamadulla - Independent Group 18",
+            "votes": 62,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "EPDP",
+            "party_long": "Eelam People's Democratic Party",
+            "votes": 61,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 61,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND20_D13",
+            "party_long": "Digamadulla - Independent Group 20",
+            "votes": 56,
+            "percentage": 0.1,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D13",
+            "party_long": "Digamadulla - Independent Group 2",
+            "votes": 48,
+            "percentage": 0.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND26_D13",
+            "party_long": "Digamadulla - Independent Group 26",
+            "votes": 40,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 38,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D13",
+            "party_long": "Digamadulla - Independent Group 12",
+            "votes": 31,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND34_D13",
+            "party_long": "Digamadulla - Independent Group 34",
+            "votes": 28,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND17_D13",
+            "party_long": "Digamadulla - Independent Group 17",
+            "votes": 27,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND19_D13",
+            "party_long": "Digamadulla - Independent Group 19",
+            "votes": 25,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D13",
+            "party_long": "Digamadulla - Independent Group 10",
+            "votes": 21,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 19,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D13",
+            "party_long": "Digamadulla - Independent Group 11",
+            "votes": 18,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND21_D13",
+            "party_long": "Digamadulla - Independent Group 21",
+            "votes": 15,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D13",
+            "party_long": "Digamadulla - Independent Group 7",
+            "votes": 14,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 13,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND27_D13",
+            "party_long": "Digamadulla - Independent Group 27",
+            "votes": 11,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D13",
+            "party_long": "Digamadulla - Independent Group 8",
+            "votes": 10,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 10,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND33_D13",
+            "party_long": "Digamadulla - Independent Group 33",
+            "votes": 9,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND22_D13",
+            "party_long": "Digamadulla - Independent Group 22",
+            "votes": 7,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND28_D13",
+            "party_long": "Digamadulla - Independent Group 28",
+            "votes": 6,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND30_D13",
+            "party_long": "Digamadulla - Independent Group 30",
+            "votes": 6,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 6,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND15_D13",
+            "party_long": "Digamadulla - Independent Group 15",
+            "votes": 6,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 5,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND31_D13",
+            "party_long": "Digamadulla - Independent Group 31",
+            "votes": 4,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 4,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D13",
+            "party_long": "Digamadulla - Independent Group 1",
+            "votes": 4,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NSU",
+            "party_long": "Nawa Sihala Urumaya",
+            "votes": 4,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND24_D13",
+            "party_long": "Digamadulla - Independent Group 24",
+            "votes": 3,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NDF",
+            "party_long": "National Democratic Front",
+            "votes": 3,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND14_D13",
+            "party_long": "Digamadulla - Independent Group 14",
+            "votes": 3,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND25_D13",
+            "party_long": "Digamadulla - Independent Group 25",
+            "votes": 3,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND16_D13",
+            "party_long": "Digamadulla - Independent Group 16",
+            "votes": 2,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND13_D13",
+            "party_long": "Digamadulla - Independent Group 13",
+            "votes": 2,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D13",
+            "party_long": "Digamadulla - Independent Group 3",
+            "votes": 2,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND32_D13",
+            "party_long": "Digamadulla - Independent Group 32",
+            "votes": 2,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D13",
+            "party_long": "Digamadulla - Independent Group 5",
+            "votes": 2,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND23_D13",
+            "party_long": "Digamadulla - Independent Group 23",
+            "votes": 1,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND29_D13",
+            "party_long": "Digamadulla - Independent Group 29",
+            "votes": 0,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

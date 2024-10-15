@@ -1,0 +1,236 @@
+{
+    "time_stamp": null,
+    "polling_division": "Nivitigala",
+    "electoral_district": "Ratnapura",
+    "electoral_district_id": null,
+    "province": "Sabaragamuwa",
+    "valid_votes": 76824,
+    "valid_votes_pct": 75.8,
+    "rejected_votes": 3570,
+    "rejected_pct": 3.52,
+    "total_polled": 80394,
+    "polled_pct": 79.33,
+    "registered_electors": 101345,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 52145,
+            "percentage": 67.88,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 20066,
+            "percentage": 26.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 1437,
+            "percentage": 1.87,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 1186,
+            "percentage": 1.54,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D21",
+            "party_long": "Rathnapura - Independent Group 6",
+            "votes": 450,
+            "percentage": 0.59,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 340,
+            "percentage": 0.44,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D21",
+            "party_long": "Rathnapura - Independent Group 2",
+            "votes": 198,
+            "percentage": 0.26,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NEWDF",
+            "party_long": "New Democratic Front",
+            "votes": 178,
+            "percentage": 0.23,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 121,
+            "percentage": 0.16,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSWP",
+            "party_long": "Jathika Sangwardhena Peramuna",
+            "votes": 107,
+            "percentage": 0.14,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 105,
+            "percentage": 0.14,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D21",
+            "party_long": "Rathnapura - Independent Group 1",
+            "votes": 83,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 60,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "DUNF",
+            "party_long": "Democratic United National Front",
+            "votes": 50,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D21",
+            "party_long": "Rathnapura - Independent Group 5",
+            "votes": 49,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 48,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "National Peoples Party",
+            "votes": 47,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D21",
+            "party_long": "Rathnapura - Independent Group 4",
+            "votes": 47,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 32,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OWORS",
+            "party_long": "Okkoma Wasiyo Okkoma Rajawaru Sanvidanaya",
+            "votes": 28,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NSU",
+            "party_long": "Nawa Sihala Urumaya",
+            "votes": 24,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D21",
+            "party_long": "Rathnapura - Independent Group 3",
+            "votes": 23,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

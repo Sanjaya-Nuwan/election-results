@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Gampaha",
+    "electoral_district_id": null,
+    "province": "Western",
+    "valid_votes": 1458389,
+    "valid_votes_pct": 98.03,
+    "rejected_votes": 29381,
+    "rejected_pct": 1.97,
+    "total_polled": 1487770,
+    "polled_pct": 79.09,
+    "registered_electors": 1881129,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 809410,
+            "percentage": 55.5,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 349550,
+            "percentage": 23.97,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 216028,
+            "percentage": 14.81,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 41193,
+            "percentage": 2.82,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 17143,
+            "percentage": 1.18,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 25065,
+            "percentage": 1.72,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

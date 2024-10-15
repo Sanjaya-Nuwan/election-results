@@ -1,0 +1,166 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": null,
+    "electoral_district_id": null,
+    "province": null,
+    "valid_votes": null,
+    "valid_votes_pct": null,
+    "rejected_votes": null,
+    "rejected_pct": null,
+    "total_polled": null,
+    "polled_pct": null,
+    "registered_electors": null,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": null,
+            "votes": 6853693,
+            "percentage": 59.09,
+            "seats": "145",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": null,
+            "votes": 2771984,
+            "percentage": 23.9,
+            "seats": "54",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": null,
+            "votes": 445958,
+            "percentage": 3.84,
+            "seats": "3",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ITAK",
+            "party_long": null,
+            "votes": 327168,
+            "percentage": 2.82,
+            "seats": "10",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": null,
+            "votes": 249435,
+            "percentage": 2.15,
+            "seats": "1",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "AITC",
+            "party_long": null,
+            "votes": 67766,
+            "percentage": 0.58,
+            "seats": "2",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": null,
+            "votes": 67758,
+            "percentage": 0.58,
+            "seats": "1",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TMVP",
+            "party_long": null,
+            "votes": 67692,
+            "percentage": 0.58,
+            "seats": "1",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLFP",
+            "party_long": null,
+            "votes": 66579,
+            "percentage": 0.57,
+            "seats": "1",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "EPDP",
+            "party_long": null,
+            "votes": 61464,
+            "percentage": 0.53,
+            "seats": "2",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "MNA",
+            "party_long": null,
+            "votes": 55981,
+            "percentage": 0.48,
+            "seats": "1",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "TMTK",
+            "party_long": null,
+            "votes": 51301,
+            "percentage": 0.44,
+            "seats": "1",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ACMC",
+            "party_long": null,
+            "votes": 43319,
+            "percentage": 0.37,
+            "seats": "1",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NC",
+            "party_long": null,
+            "votes": 39272,
+            "percentage": 0.34,
+            "seats": "1",
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SLMC",
+            "party_long": null,
+            "votes": 34428,
+            "percentage": 0.3,
+            "seats": "1",
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

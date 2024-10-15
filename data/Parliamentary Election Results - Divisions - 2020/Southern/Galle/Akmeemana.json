@@ -1,0 +1,276 @@
+{
+    "time_stamp": null,
+    "polling_division": "Akmeemana",
+    "electoral_district": "Galle",
+    "electoral_district_id": null,
+    "province": "Southern",
+    "valid_votes": 66347,
+    "valid_votes_pct": 68.47,
+    "rejected_votes": 3561,
+    "rejected_pct": 3.68,
+    "total_polled": 69908,
+    "polled_pct": 72.15,
+    "registered_electors": 96897,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 46093,
+            "percentage": 69.47,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 12266,
+            "percentage": 18.49,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 4550,
+            "percentage": 6.86,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 1824,
+            "percentage": 2.75,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 903,
+            "percentage": 1.36,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 142,
+            "percentage": 0.21,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NDF",
+            "party_long": "National Democratic Front",
+            "votes": 75,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND12_D07",
+            "party_long": "Galle-Independent Group 12",
+            "votes": 68,
+            "percentage": 0.1,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 55,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 45,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D07",
+            "party_long": "Galle-Independent Group 2",
+            "votes": 44,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "National Peoples Party",
+            "votes": 41,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 38,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND13_D07",
+            "party_long": "Galle-Independent Group 13",
+            "votes": 33,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND11_D07",
+            "party_long": "Galle-Independent Group 11",
+            "votes": 31,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D07",
+            "party_long": "Galle-Independent Group 1",
+            "votes": 27,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 24,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 22,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D07",
+            "party_long": "Galle-Independent Group 8",
+            "votes": 11,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D07",
+            "party_long": "Galle-Independent Group 9",
+            "votes": 10,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D07",
+            "party_long": "Galle-Independent Group 7",
+            "votes": 10,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D07",
+            "party_long": "Galle-Independent Group 6",
+            "votes": 9,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D07",
+            "party_long": "Galle-Independent Group 5",
+            "votes": 9,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D07",
+            "party_long": "Galle-Independent Group 4",
+            "votes": 9,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D07",
+            "party_long": "Galle-Independent Group 10",
+            "votes": 5,
+            "percentage": 0.01,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D07",
+            "party_long": "Galle-Independent Group 3",
+            "votes": 3,
+            "percentage": 0.0,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

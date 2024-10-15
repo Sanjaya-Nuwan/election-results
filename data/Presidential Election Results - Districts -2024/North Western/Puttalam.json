@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Puttalam",
+    "electoral_district_id": null,
+    "province": "North Western",
+    "valid_votes": 470095,
+    "valid_votes_pct": 98.27,
+    "rejected_votes": 8279,
+    "rejected_pct": 1.73,
+    "total_polled": 478374,
+    "polled_pct": 72.08,
+    "registered_electors": 663673,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 207134,
+            "percentage": 44.06,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 173382,
+            "percentage": 36.88,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 60719,
+            "percentage": 12.92,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 13285,
+            "percentage": 2.83,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 3003,
+            "percentage": 0.64,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 12572,
+            "percentage": 2.67,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

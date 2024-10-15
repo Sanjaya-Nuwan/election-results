@@ -1,0 +1,236 @@
+{
+    "time_stamp": null,
+    "polling_division": "Horowupotana",
+    "electoral_district": "Anuradhapura",
+    "electoral_district_id": null,
+    "province": "North Central",
+    "valid_votes": 57558,
+    "valid_votes_pct": 72.28,
+    "rejected_votes": 4830,
+    "rejected_pct": 6.07,
+    "total_polled": 62388,
+    "polled_pct": 78.35,
+    "registered_electors": 79631,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 35511,
+            "percentage": 61.7,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 17665,
+            "percentage": 30.69,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 2226,
+            "percentage": 3.87,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 849,
+            "percentage": 1.48,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "National Peoples Party",
+            "votes": 166,
+            "percentage": 0.29,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND09_D17",
+            "party_long": "Anuradhapura - Independent Group 9",
+            "votes": 158,
+            "percentage": 0.27,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D17",
+            "party_long": "Anuradhapura - Independent Group 1",
+            "votes": 138,
+            "percentage": 0.24,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D17",
+            "party_long": "Anuradhapura - Independent Group 5",
+            "votes": 131,
+            "percentage": 0.23,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSWP",
+            "party_long": "Jathika Sangwardhena Peramuna",
+            "votes": 116,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 103,
+            "percentage": 0.18,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D17",
+            "party_long": "Anuradhapura - Independent Group 6",
+            "votes": 92,
+            "percentage": 0.16,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D17",
+            "party_long": "Anuradhapura - Independent Group 4",
+            "votes": 59,
+            "percentage": 0.1,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 57,
+            "percentage": 0.1,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 45,
+            "percentage": 0.08,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND10_D17",
+            "party_long": "Anuradhapura - Independent Group 10",
+            "votes": 39,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D17",
+            "party_long": "Anuradhapura - Independent Group 2",
+            "votes": 39,
+            "percentage": 0.07,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 34,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 31,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 27,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D17",
+            "party_long": "Anuradhapura - Independent Group 7",
+            "votes": 25,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D17",
+            "party_long": "Anuradhapura - Independent Group 8",
+            "votes": 24,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D17",
+            "party_long": "Anuradhapura - Independent Group 3",
+            "votes": 23,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "time_stamp": null,
+    "polling_division": "Polonnaruwa",
+    "electoral_district": "Polonnaruwa",
+    "electoral_district_id": null,
+    "province": "North Central",
+    "valid_votes": 109735,
+    "valid_votes_pct": 73.42,
+    "rejected_votes": 7603,
+    "rejected_pct": 5.09,
+    "total_polled": 117338,
+    "polled_pct": 78.5,
+    "registered_electors": 149466,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 79724,
+            "percentage": 72.65,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 22989,
+            "percentage": 20.95,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 2826,
+            "percentage": 2.58,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 2416,
+            "percentage": 2.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 396,
+            "percentage": 0.36,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND03_D18",
+            "party_long": "Polonnaruwa - Independent Group 3",
+            "votes": 227,
+            "percentage": 0.21,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NC",
+            "party_long": "National Congress",
+            "votes": 220,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 216,
+            "percentage": 0.2,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "National Peoples Party",
+            "votes": 132,
+            "percentage": 0.12,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 119,
+            "percentage": 0.11,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 105,
+            "percentage": 0.1,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND01_D18",
+            "party_long": "Polonnaruwa - Independent Group 1",
+            "votes": 99,
+            "percentage": 0.09,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND07_D18",
+            "party_long": "Polonnaruwa - Independent Group 7",
+            "votes": 64,
+            "percentage": 0.06,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND06_D18",
+            "party_long": "Polonnaruwa - Independent Group 6",
+            "votes": 55,
+            "percentage": 0.05,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND08_D18",
+            "party_long": "Polonnaruwa - Independent Group 8",
+            "votes": 48,
+            "percentage": 0.04,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Jana Setha Peramuna",
+            "votes": 37,
+            "percentage": 0.03,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND04_D18",
+            "party_long": "Polonnaruwa - Independent Group 4",
+            "votes": 23,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND05_D18",
+            "party_long": "Polonnaruwa - Independent Group 5",
+            "votes": 21,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        },
+        {
+            "party_short": "IND02_D18",
+            "party_long": "Polonnaruwa - Independent Group 2",
+            "votes": 18,
+            "percentage": 0.02,
+            "seats": null,
+            "candidates": [
+                {}
+            ]
+        }
+    ]
+}

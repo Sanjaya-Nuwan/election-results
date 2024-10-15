@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Trincomalee",
+    "electoral_district_id": null,
+    "province": "Eastern",
+    "valid_votes": 239461,
+    "valid_votes_pct": 97.63,
+    "rejected_votes": 5821,
+    "rejected_pct": 2.37,
+    "total_polled": 245282,
+    "polled_pct": 77.64,
+    "registered_electors": 315925,
+    "results": [
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 120588,
+            "percentage": 50.36,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 49886,
+            "percentage": 20.83,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 40496,
+            "percentage": 16.91,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND9",
+            "party_long": "ARIYANETHIRAN PAKKIYASELVAM",
+            "votes": 18524,
+            "percentage": 7.74,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 2183,
+            "percentage": 0.91,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 25434,
+            "percentage": 10.62,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

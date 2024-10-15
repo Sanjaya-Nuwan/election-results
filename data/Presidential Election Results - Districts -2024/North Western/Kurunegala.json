@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Kurunegala",
+    "electoral_district_id": null,
+    "province": "North Western",
+    "valid_votes": 1130293,
+    "valid_votes_pct": 98.32,
+    "rejected_votes": 19337,
+    "rejected_pct": 1.68,
+    "total_polled": 1149630,
+    "polled_pct": 81.12,
+    "registered_electors": 1417226,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 544763,
+            "percentage": 48.2,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 368290,
+            "percentage": 32.58,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 146520,
+            "percentage": 12.96,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 38730,
+            "percentage": 3.43,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 7532,
+            "percentage": 0.67,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 24458,
+            "percentage": 2.16,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

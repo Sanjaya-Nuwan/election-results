@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Colombo",
+    "electoral_district_id": null,
+    "province": "Western",
+    "valid_votes": 1334390,
+    "valid_votes_pct": 97.67,
+    "rejected_votes": 31796,
+    "rejected_pct": 2.33,
+    "total_polled": 1366186,
+    "polled_pct": 77.39,
+    "registered_electors": 1765351,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 629963,
+            "percentage": 47.21,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 342108,
+            "percentage": 25.64,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 281436,
+            "percentage": 21.09,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 30432,
+            "percentage": 2.28,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 26356,
+            "percentage": 1.98,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 24095,
+            "percentage": 1.81,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

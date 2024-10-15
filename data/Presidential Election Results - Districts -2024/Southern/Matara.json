@@ -1,0 +1,64 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Matara",
+    "electoral_district_id": null,
+    "province": "Southern",
+    "valid_votes": 548329,
+    "valid_votes_pct": 98.26,
+    "rejected_votes": 9687,
+    "rejected_pct": 1.74,
+    "total_polled": 558016,
+    "polled_pct": 81.32,
+    "registered_electors": 686175,
+    "results": [
+        {
+            "party_short": "NPP",
+            "party_long": "ANURA KUMARA DISSANAYAKE",
+            "votes": 287662,
+            "percentage": 52.46,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "SAJITH PREMADASA",
+            "votes": 147462,
+            "percentage": 26.89,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "IND16",
+            "party_long": "RANIL WICKREMESINGHE",
+            "votes": 79249,
+            "percentage": 14.45,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLPP",
+            "party_long": "NAMAL RAJAPAKSA",
+            "votes": 14962,
+            "percentage": 2.73,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "SLCP",
+            "party_long": "DILITH JAYAWEERA",
+            "votes": 7316,
+            "percentage": 1.33,
+            "seats": null,
+            "candidates": null
+        },
+        {
+            "party_short": "OTHER",
+            "party_long": "",
+            "votes": 11678,
+            "percentage": 2.13,
+            "seats": null,
+            "candidates": null
+        }
+    ]
+}

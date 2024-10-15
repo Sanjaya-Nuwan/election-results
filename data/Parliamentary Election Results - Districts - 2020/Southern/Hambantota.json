@@ -1,0 +1,168 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Hambantota",
+    "electoral_district_id": null,
+    "province": "Southern",
+    "valid_votes": 374017,
+    "valid_votes_pct": 95.17,
+    "rejected_votes": 18971,
+    "rejected_pct": 4.83,
+    "total_polled": 392988,
+    "polled_pct": 79.68,
+    "registered_electors": 493192,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 280881,
+            "percentage": 75.1,
+            "seats": 6,
+            "candidates": []
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 51758,
+            "percentage": 13.84,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 31362,
+            "percentage": 8.39,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 5017,
+            "percentage": 1.34,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 1572,
+            "percentage": 0.42,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND01_D09",
+            "party_long": "",
+            "votes": 646,
+            "percentage": 0.17,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 488,
+            "percentage": 0.13,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 353,
+            "percentage": 0.09,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SPS",
+            "party_long": "Socialist Party of Sri Lanka",
+            "votes": 348,
+            "percentage": 0.09,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND07_D09",
+            "party_long": "",
+            "votes": 301,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JSP",
+            "party_long": "Janasetha Peramuna",
+            "votes": 292,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "NSU",
+            "party_long": "Nawa Sihala Urumaya",
+            "votes": 220,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "National Peoples Party",
+            "votes": 192,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND05_D09",
+            "party_long": "",
+            "votes": 177,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND08_D09",
+            "party_long": "",
+            "votes": 167,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND02_D09",
+            "party_long": "",
+            "votes": 78,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND06_D09",
+            "party_long": "",
+            "votes": 72,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND04_D09",
+            "party_long": "",
+            "votes": 50,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND03_D09",
+            "party_long": "",
+            "votes": 43,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "time_stamp": null,
+    "polling_division": null,
+    "electoral_district": "Matara",
+    "electoral_district_id": null,
+    "province": "Southern",
+    "valid_votes": 478379,
+    "valid_votes_pct": 95.49,
+    "rejected_votes": 22578,
+    "rejected_pct": 4.51,
+    "total_polled": 500957,
+    "polled_pct": 75.95,
+    "registered_electors": 659587,
+    "results": [
+        {
+            "party_short": "SLPP",
+            "party_long": "Sri Lanka Podujana Peramuna",
+            "votes": 352217,
+            "percentage": 73.63,
+            "seats": 6,
+            "candidates": []
+        },
+        {
+            "party_short": "SJB",
+            "party_long": "Samagi Jana Balawegaya",
+            "votes": 72740,
+            "percentage": 15.21,
+            "seats": 1,
+            "candidates": []
+        },
+        {
+            "party_short": "JJB",
+            "party_long": "Jathika Jana Balawegaya",
+            "votes": 37136,
+            "percentage": 7.76,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "UNP",
+            "party_long": "United National Party",
+            "votes": 7631,
+            "percentage": 1.6,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND07_D08",
+            "party_long": "",
+            "votes": 2273,
+            "percentage": 0.48,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "OPPP",
+            "party_long": "Our Power of People Party",
+            "votes": 2179,
+            "percentage": 0.46,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "JSWP",
+            "party_long": "Jathika Sangwardhena Peramuna",
+            "votes": 1281,
+            "percentage": 0.27,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "ULF",
+            "party_long": "United Left Front",
+            "votes": 632,
+            "percentage": 0.13,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "FSP",
+            "party_long": "Frontline Socialist Party",
+            "votes": 489,
+            "percentage": 0.1,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "LP",
+            "party_long": "The Liberal Party",
+            "votes": 381,
+            "percentage": 0.08,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "NPP",
+            "party_long": "National Peoples Party",
+            "votes": 280,
+            "percentage": 0.06,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND04_D08",
+            "party_long": "",
+            "votes": 258,
+            "percentage": 0.05,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND06_D08",
+            "party_long": "",
+            "votes": 180,
+            "percentage": 0.04,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND05_D08",
+            "party_long": "",
+            "votes": 166,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "DUNF",
+            "party_long": "Democratic United National Front",
+            "votes": 158,
+            "percentage": 0.03,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "SJP",
+            "party_long": "Sinhaladeepa Jathika Peramuna",
+            "votes": 111,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "MJP",
+            "party_long": "Maubima Janatha Pakshaya",
+            "votes": 94,
+            "percentage": 0.02,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND03_D08",
+            "party_long": "",
+            "votes": 67,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND01_D08",
+            "party_long": "",
+            "votes": 55,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        },
+        {
+            "party_short": "IND02_D08",
+            "party_long": "",
+            "votes": 51,
+            "percentage": 0.01,
+            "seats": 0,
+            "candidates": []
+        }
+    ]
+}
