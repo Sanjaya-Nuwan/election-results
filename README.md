@@ -15,20 +15,7 @@ The goal of this project is to automate the extraction of election results from 
 
 ## Repository Structure
 The repository is organized to keep files and results easily accessible and scalable as new elections are added.
-
-### Folder Structure
-
-├── data/                                                                               
-│   ├── Presidential-Election-2024/
-│   │   └── {province}/{district}.json
-│   ├── General-Election-2020/
-│   │   └── {province}/{district}.json
-├── scripts/                          
-│   ├── presidential_2024_scrape.py   
-│   ├── general_2020_scrape.py       
-├── electoral_district.py             
-├── README.md                         
-
+               
 
 ### File Naming Convention
 
