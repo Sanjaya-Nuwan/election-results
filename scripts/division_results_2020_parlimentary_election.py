@@ -70,7 +70,7 @@ def extract_summary_data(results_soup):
         summary_data['polled_pct'] = float(rows[2].find_all('td')[1].get_text(strip=True).strip("%").strip())
         summary_data['registered_electors'] = int(rows[3].find_all('td')[0].get_text(strip=True).replace(',', ''))
     else:
-        logging.warning(f'Summary data not found for the district')
+        logging.warning('Summary data not found for the district')
 
     return summary_data
 
